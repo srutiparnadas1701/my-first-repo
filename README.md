@@ -1,1 +1,1 @@
-# my-first-repo
+An Employee Payroll System in Java focuses on automating salary calculations, tax deductions, and record management using Object-Oriented Programming (OOP). By using inheritance and encapsulation, you can build a flexible system that handles different employee types (e.g., Full-Time, Part-Time, Intern).
